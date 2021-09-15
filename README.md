@@ -6,5 +6,5 @@ All contributions are welcome!
 
 Related packages:
 - [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl/)
-- [Nonconvex.jl](https://github.com/mohamed82008/Nonconvex.jl)
+- [Nonconvex.jl](https://github.com/JuliaNonconvex/Nonconvex.jl)
 - [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl/)
